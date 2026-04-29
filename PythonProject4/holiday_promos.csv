@@ -1,0 +1,4 @@
+Product_ID,Category,Price,Promo_Active
+101,Electronics,40000.0,Yes
+103,Electronics,24000.0,Yes
+105,Electronics,36000.0,Yes
